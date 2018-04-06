@@ -5,6 +5,7 @@ git commit --amend --date="Fri Feb 23 10:00:00 2018 -0600"
 TL;DR - While Bitcoin is the most well-known crypto-currency, but it is limited in its functionality. Some of the real power behind innovations in blockchain technology comes from smart contracts that can be used to negotiate deals, the creation DApps (Decentralized Apps), and the tokenization of everything to understand value. Ethereum is the leading platform of this movement, but it is important to understand the underlying principle before building new platforms.
 
 A Quick Disclaimer
+
 Blockchain technology is an incredibly young concept. It’s recent spike in monetary gain and media buzz has caused a lot of people to want to dive in headfirst and hope for the best. Experts have been calling it the “new dotcom boom”, and enthusiasts see it as a way to upheave current systems in every industry. These articles are meant to be a primer on the field of blockchain technology, giving an overview of the landscape and an attempt to clear up confusion around topics. Yet these articles can only explore what is currently being done in the field, and as regulations are put into place and the uses of blockchain become more clear, definitions and understandings may change. That said, blockchain technology is an exciting subject and will definitely offer new opportunities for growth, and the possibilities are endless as to how it can help.
 
 So What is Bitcoin Again?
